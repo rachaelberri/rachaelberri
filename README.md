@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rachaelberri
+- 👀 I’m interested in dataviz, retail data applications
+- 🌱 I’m currently learning D3
+- 💞️ I’m looking to collaborate on small projects in Python, Javascript
+- 📫 How to reach me: Insta
